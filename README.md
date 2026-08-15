@@ -20,6 +20,6 @@
  - "Командная строка Linux" Уильям Шоттс
  - [Основы Linux](https://education.yandex.ru/handbook/linux)
 
-Курсы на Stepik
+Курсы на Stepik:
 
 - Терминал Linux. Основы
