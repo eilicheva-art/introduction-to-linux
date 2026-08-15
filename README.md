@@ -16,4 +16,7 @@
 ## Используемые материалы
 [Git](https://git-scm.com/book/ru/v2)
 
-Книга "Командная строка Linux" Уильям Шоттс
+Книги:
+ - "Командная строка Linux" Уильям Шоттс
+ - [Основы Linux](https://education.yandex.ru/handbook/linux)
+
